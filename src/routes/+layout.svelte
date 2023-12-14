@@ -6,9 +6,9 @@
 	<div class="container mx-auto px-4">
 		<nav class="flex items-center justify-between h-16">
 			<!-- Some logo or brand here -->
-			<div class="flex-shrink-0">
-				<a href="/" class="text-2xl font-bold">Logo</a>
-			</div>
+<!--			<div class="flex-shrink-0">-->
+<!--				<a href="/" class="text-2xl font-bold">Logo</a>-->
+<!--			</div>-->
 
 			<div class="flex">
 				<a href="/" class="px-4 py-2 text-xl">Home</a>

@@ -13,9 +13,10 @@
     <div class="container mx-auto text-lg">
         <div class="flex flex-col md:flex-row items-center justify-center md:justify-between p-32 m-10">
             <div class="w-full md:w-1/2">
-                <h1 class="text-4xl font-bold leading-tight mb-6">Welcome to
+                <h1 class="text-4xl font-bold leading-tight mb-4">Welcome to
                     <span class="text-blue-500">My Portfolio Site</span></h1>
-                <p class="text-gray-600 mb-8">This site is made using Svelte kit and Tailwind CSS.
+                <h2 class="text-2xl mb-4 font-light">My name is <span class="text-blue-500">Johan</span></h2>
+                <p class="text-gray-600 mb-8"> And This site was made using Svelte kit and Tailwind CSS.
                 Here I'll show you what experiences and projects I've done, some info about me, and my contact info for any feedback or outreach.</p>
             </div>
         </div>
@@ -29,7 +30,7 @@
         <div class="flex flex-col md:flex-row items-center justify-center md:justify-between py-12 p-32 m-10">
             <div class="w-full md:w-1/2 bg-cover">
                 <!-- image of myself -->
-                <img src="/JolveraRedDoor.jpg" alt="me" class="w-72 rounded-2xl mx-auto mb-8 object-contain">
+<!--                <img src="/JolveraRedDoor.jpg" alt="me" class="w-72 rounded-2xl mx-auto mb-8 object-contain">-->
             </div>
             <div class="w-full md:w-1/2">
                 <h1 class="text-4xl font-bold leading-tight mb-6">About Me</h1>
