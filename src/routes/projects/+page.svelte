@@ -122,23 +122,20 @@
                 <h3 class="text-lg font-light">December 2023</h3>
                 <h4 class="text-lg font-medium py-2">Overview</h4>
                 <p>
-                    ATrails is an app designed to be a social hub for hikers and trail runners, allowing users to make posts,
-                    follow other users, and track their hikes and runs. The project was for a mobile development course which
-                    focused on IOS development. This project was developed using SwiftUI and Firebase as a backend, both of which
-                    was outside of the scope of what the class taught, only introducing us to the basics of swiftUI. This decision was made
-                    on my part in order to learn more about IOS development and using a cloud backend if I ever want to
-                    use it for another project. I also learned how to use the MVC design pattern in order to structure the project and
-                    make it easier to maintain and add features to. The project was also developed using agile practices, using Azure
-                    Devops as a way to organize my features and tasks.
+                    This project was something for me to learn more about SvelteKit since I've heard a lot of good things about it
+                    as well as Tailwind CSS streamlining the styling process. I needed a portfolio page to showcase my projects and
+                    decided it was a good time to put this in action using these technologies. It was a very smooth process compared to
+                    other technologies I've used, being able to quickly set up a project and start developing. Overall the majority of this website was made
+                    within a few days and there can be much to improve even now. I'm just happy I have my own website to be able to showcase my
+                    projects and skills.
                 </p>
                 <h4 class="text-lg font-medium py-2">Impact</h4>
                 <p>
-                    I was able to learn more about mobile development and how to utilize a cloud backend for a mobile application,
-                    being able to write and read data from Firestore in order to populate post feeds for users and have it be able
-                    to search for group chats as well as join them. You could also make a post which would be sent onto the database
-                    and be able to be read by other users. Many other features like the group chat and the hike tracker were not
-                    able to be finished since I only had a month to work on the project, but for the time I had, I'm very proud
-                    of being able to dynamically populate a post feed and be able to work with technologies that were very new to me.
+                    I was able to learn more about SvelteKit and the capabilities that it had, researching the documentation and
+                    learning how to use it for static site generation or as a SPA if I ever needed to make one using the same framework.
+                    Tailwind CSS was what took up the majority of my learning time, but once I had a good grasp of it, it became easier
+                    as I kept building the site. Thanks to my past experience in Azure, I learned to use the Azure Static Web App service
+                    and set up a github workflow to automatically deploy my site when I push to my main branch.
                 </p>
                 <h4 class="text-lg font-medium py-2">Skills learned</h4>
                 <ul class="list-disc">
